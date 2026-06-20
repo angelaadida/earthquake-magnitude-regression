@@ -1,6 +1,6 @@
 # 🌍 Earthquake Magnitude Prediction — Regression Models
 
-Predicting earthquake magnitude using machine learning regression models on a dataset of **782 earthquakes** recorded from 2001 to 2023 worldwide.
+End-to-end regression project predicting earthquake magnitude on 782 real earthquake records (2001–2023) — benchmarking **42 ML models using LazyPredict**, then tuning the best model with RandomizedSearchCV.
 
 ---
 
